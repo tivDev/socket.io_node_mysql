@@ -59,7 +59,7 @@ Below is an example of the application's output:
 ### Available Routes
 
 - `/`: The root route, typically used for testing or displaying a welcome message.
-- `/user`: A route for user-related operations, such as fetching or managing user data.
+- `/users`: A route for user-related operations, such as fetching or managing user data.
 
 ## Additional Notes
 
