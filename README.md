@@ -45,7 +45,7 @@ This will launch the server, and you can access the app at `http://localhost:300
 
 Alternatively, during development, you can use `nodemon` to automatically restart the server on file changes:
 ```bash
-npx nodemon app.js
+nodemon app.js
 ```
 
 ## Additional Notes
