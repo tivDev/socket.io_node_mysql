@@ -1,5 +1,9 @@
 # Socket.io + Node + MySQL
 
+![Socket.io Logo](https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg)  
+![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)  
+![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg)
+
 This is a Node.js application designed to demonstrate the use of various packages like `socket.io` and `mysql2`. It provides a robust foundation for building real-time applications with database connectivity.
 
 ## Requirements
@@ -47,6 +51,15 @@ Alternatively, during development, you can use `nodemon` to automatically restar
 ```bash
 nodemon app.js
 ```
+
+Below is an example of the application's output:
+
+![Application Output](result.png)
+
+### Available Routes
+
+- `/`: The root route, typically used for testing or displaying a welcome message.
+- `/user`: A route for user-related operations, such as fetching or managing user data.
 
 ## Additional Notes
 
