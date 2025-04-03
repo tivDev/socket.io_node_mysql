@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.btn {
+    padding: 4px 16px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+
+.modal-header {
+
+    border-bottom: none;
+}
+.modal-footer {
+    border-top: none;
+}
+.btn-primary {
+    background-color: #000000;
+    border: none;
+}
