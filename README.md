@@ -18,7 +18,7 @@ Before starting, ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd start_node.js
+   cd socket.io_node_mysql
    ```
 
 2. Install the required dependencies:
